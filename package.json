@@ -1,0 +1,27 @@
+{
+  "name": "crud-api-node",
+  "version": "1.0.0",
+  "description": "Building CRUD API using node and mongo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek-moori/crud-api-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateek-moori/crud-api-node/issues"
+  },
+  "homepage": "https://github.com/prateek-moori/crud-api-node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
